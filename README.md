@@ -26,7 +26,7 @@
 <br><br>
 <h3 align="center"> 🧑‍💻 Me 🧑‍💻 </h3>
 <p align="center">
-  <a href="https://www.notion.so/hyeonss/682cbdabc6df40e1a2edae7d2ab27d17" target="_blank"><img src="https://img.shields.io/badge/Tech%20Note-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://www.notion.so/hyeonss/682cbdabc6df40e1a2edae7d2ab27d17"/></a>&nbsp
+  <a href="https://www.notion.so/hyeonss/682cbdabc6df40e1a2edae7d2ab27d17" target="_blank"><img src="https://img.shields.io/badge/Tech%20Note-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
   <a href="mailto:hyeonss0417@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyeonss0417@gmail.com"/></a>
 </p>
 <br>
