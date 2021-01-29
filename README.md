@@ -9,23 +9,23 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-ffb13b?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-6097CB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-376E9D?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-F0931C?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/HTML-1572B6?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-1572B6?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-DE4B25?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-0F6BB4?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-58C2DF?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   
   <br>
-  <img src="https://img.shields.io/badge/NestJS-6DB33F?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeORM-6DB33F?style=flat-square&logo=TypeORM&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GraphQL-6DB33F?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-E6B91E?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/NestJS-DA234B?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Express-82C042?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeORM-ECA93C?style=flat-square&logo=TypeORM&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/GraphQL-DC0193?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-005E86?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-0897E5?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-F89400?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
 
 <br><br>
